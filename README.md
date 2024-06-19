@@ -6,8 +6,6 @@
 
 一键免费部署你的私人 ChatGPT+Midjourney 网页应用（基于[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)开发）
 
-[QQ交流群](https://github.com/Licoy/ChatGPT-Midjourney/issues/30) | [💥PRO版本](https://github.com/Licoy/ChatGPT-Midjourney-Pro)
-
 [![WordPress+ChatGPT支持](https://img.shields.io/badge/WordPress-AIGC%20部署-red.svg?logo=wordpress&logoColor=red)](https://github.com/Licoy/wordpress-theme-puock)
 
 ![主界面](./docs/images/cover.png)
@@ -34,7 +32,7 @@
 - [x] 自身内部支持 Midjourney 服务，无需任何第三方依赖
 
 ## 中转API
-> 以下为第三方中转API，本项目不做任何担保，请自行选择使用，若遇到任何疑问请联系对应的平台客服。
+> 以下为第三方中转API，本项目不做任何担保，请自行选择使用，若遇到任何疑问请联系AirEliauk9527。
 
 ### [GPTNB](https://goapi.gptnb.me)
 支持ChatGPT、Claude、GPTs、Midjourney等多种模型的API接入，且超低成本比例 [[立即访问]](https://goapi.gptnb.me)

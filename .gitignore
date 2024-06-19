@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 dist/
-
+*.tmp
 # testing
 /coverage
 
@@ -19,7 +19,7 @@ dist/
 # misc
 .DS_Store
 *.pem
-
+*.zip
 # debug
 npm-debug.log*
 yarn-debug.log*
