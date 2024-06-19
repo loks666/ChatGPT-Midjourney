@@ -75,11 +75,17 @@ docker run -d -p 3000:3000 \
 ### 手动部署
 - clone本项目到本地
 - 安装依赖
+- 下载libvips工具：https://github.com/lovell/sharp-libvips/release
+- 配置环境变量
 ```shell
-npm install
-npm run build
-npm run start // #或者开发模式启动： npm run dev
+yarn add sharp
 ```
+```shell
+yarn install
+yarn run build
+yarn run start // #或者开发模式启动： yarn run dev
+```
+
 ## 使用
 ### ⚠ 注意事项
 - 在绘画之前需要关闭Remix模式，否则会出现无法Vary、Pan、Zoom等无法绘画的情况：在Discord中输入`/setting`，然后点击`Remix Mode`即可关闭。
